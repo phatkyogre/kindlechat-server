@@ -11,7 +11,7 @@ A client script that your Kindle can run to send/receive messages
 Optional: host the server online (Railway/Vercel/Render) so you and your friend can text anywhere
 
 📁 Project Structure
-kindletext/
+kindlechat/
 │
 ├── server/
 │   ├── app.py            # Flask API
